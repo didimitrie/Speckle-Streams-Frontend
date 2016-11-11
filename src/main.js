@@ -24,6 +24,7 @@ import Dashboard      from './components/Dashboard.vue'
 
 import StreamViewer        from './components/viewer/StreamViewer.vue'
 import PackageViewer       from './components/packageviewer/PackageViewer.vue'
+import DataView            from './components/dataview/DataView.vue'
 
 import Store          from './config'
 
@@ -74,6 +75,10 @@ router.map({
     }, 
     'package/:packageid': {
       component: PackageViewer,
+      canReuse: false
+    }, 
+    'dataview/:packageid': {
+      component: DataView,
       canReuse: false
     }
 })
