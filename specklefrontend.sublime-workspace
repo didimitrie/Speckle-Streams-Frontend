@@ -1,0 +1,1826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"D",
+				"DoubleSide"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"plan",
+				"PlaneGeometry"
+			],
+			[
+				"Mes",
+				"MeshPhongMaterial"
+			],
+			[
+				"mole",
+				"molecule"
+			],
+			[
+				"pa",
+				"packageName"
+			],
+			[
+				"pack",
+				"packageName"
+			],
+			[
+				"packa",
+				"packageName"
+			],
+			[
+				"pac",
+				"packageName"
+			],
+			[
+				"show",
+				"showComputer"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"ma",
+				"mapNumber"
+			],
+			[
+				"dire",
+				"directInputPlease"
+			],
+			[
+				"slider",
+				"slidervalue"
+			],
+			[
+				"is",
+				"isAlive"
+			],
+			[
+				"contro",
+				"controllers"
+			],
+			[
+				"comp",
+				"computeBoundingSphere"
+			],
+			[
+				"visi",
+				"visibleObjs"
+			],
+			[
+				"cons",
+				"consumerid"
+			],
+			[
+				"pay",
+				"payloads"
+			],
+			[
+				"ack",
+				"ackHash"
+			],
+			[
+				"p",
+				"payload"
+			],
+			[
+				"Congi",
+				"ConfigStore"
+			],
+			[
+				"St",
+				"StreamStore"
+			],
+			[
+				"gud",
+				"guids"
+			],
+			[
+				"contr",
+				"controllers"
+			],
+			[
+				"con",
+				"controllers"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"Re",
+				"RequestQueue"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"req",
+				"RequestPrecomp"
+			],
+			[
+				"get",
+				"getPermutation"
+			],
+			[
+				"gener",
+				"generateSet"
+			],
+			[
+				"control",
+				"controller"
+			],
+			[
+				"entr",
+				"entryValues"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"manu",
+				"manualEdit"
+			],
+			[
+				"div",
+				"divisions"
+			],
+			[
+				"com",
+				"computeTotalInstances"
+			],
+			[
+				"decimal",
+				"decimalPlaces"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"controll",
+				"controllers"
+			],
+			[
+				"addin",
+				"padding-bottom"
+			],
+			[
+				"num",
+				"numberOfValues"
+			],
+			[
+				"nu",
+				"numberOfValues"
+			],
+			[
+				"no",
+				"noProblem"
+			],
+			[
+				"online",
+				"onlineSenders"
+			],
+			[
+				"onl",
+				"onlineSenders"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"Stream",
+				"StreamPrecomputer"
+			],
+			[
+				"re",
+				"requesthash"
+			],
+			[
+				"Spk",
+				"SpkMolecule"
+			],
+			[
+				"SPK",
+				"SpkDroplet"
+			],
+			[
+				"so",
+				"socket"
+			],
+			[
+				"cl",
+				"clientSocket"
+			],
+			[
+				"SS",
+				"SSAO"
+			],
+			[
+				"img",
+				"imgPath"
+			],
+			[
+				"fron",
+				"frontEndRoutes"
+			],
+			[
+				"new",
+				"newstructs"
+			],
+			[
+				"conso",
+				"consolidatedStructure"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"api",
+				"apitoken"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"mouseLeave",
+				"mouseLeave"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"ge",
+				"geoStore"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"curr",
+				"currenthashes"
+			],
+			[
+				"ob",
+				"objectList"
+			],
+			[
+				"load",
+				"loadLive"
+			],
+			[
+				"add",
+				"addObjectToScene"
+			],
+			[
+				"has",
+				"hash"
+			],
+			[
+				"parsed",
+				"parsedObjects"
+			],
+			[
+				"parse",
+				"parsedObjects"
+			],
+			[
+				"stru",
+				"structure"
+			],
+			[
+				"tog",
+				"toggleLayerVisibility"
+			],
+			[
+				"layer",
+				"layername"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"mol",
+				"molecule"
+			],
+			[
+				"ep",
+				"expanded"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ap",
+				"apikey"
+			],
+			[
+				"hash",
+				"hashesToLoad"
+			],
+			[
+				"selected",
+				"selectedDroplet"
+			],
+			[
+				"sele",
+				"selectedDroplet"
+			],
+			[
+				"droplet",
+				"dropletid"
+			],
+			[
+				"drop",
+				"droplets"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"stream",
+				"streamid"
+			],
+			[
+				"fa",
+				"fakeapikey"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"aut",
+				"authenticated"
+			],
+			[
+				"jw",
+				"jwtheader"
+			],
+			[
+				"jwt",
+				"jwttoken"
+			],
+			[
+				"exp",
+				"expdate"
+			],
+			[
+				"log",
+				"loginError"
+			],
+			[
+				"VueR",
+				"VueResource"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"su",
+				"submitForm"
+			],
+			[
+				"jade",
+				"jadeify"
+			],
+			[
+				"Vue",
+				"VueRouter"
+			],
+			[
+				"Model",
+				"ModelData"
+			],
+			[
+				"file",
+				"filelocation"
+			],
+			[
+				"my",
+				"myModelData"
+			],
+			[
+				"na",
+				"nameFilter"
+			],
+			[
+				"je",
+				"jwtHeader"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"router",
+				"routerFront"
+			],
+			[
+				"to",
+				"geomsToLoad"
+			],
+			[
+				"set",
+				"setActivePlan"
+			],
+			[
+				"counter",
+				"counter-template"
+			],
+			[
+				"ta",
+				"takesScreenshot"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/components/Layers.vue",
+			"settings":
+			{
+				"buffer_size": 609,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Layer.vue",
+			"settings":
+			{
+				"buffer_size": 5383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/LayerObject.vue",
+			"settings":
+			{
+				"buffer_size": 1942,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/SpkUiToggle.vue",
+			"settings":
+			{
+				"buffer_size": 485,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/config.js",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/logic/Converter.js",
+			"settings":
+			{
+				"buffer_size": 6432,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/SpkUiSlider.vue",
+			"settings":
+			{
+				"buffer_size": 2285,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Renderer.vue",
+			"settings":
+			{
+				"buffer_size": 19155,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "paca",
+		"selected_items":
+		[
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"Markdown",
+				"MarkdownEditing: Magic Footnotes Command"
+			],
+			[
+				"markd",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Bender/Documents/dev/Speckle/fronttt",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src"
+	],
+	"file_history":
+	[
+		"/Volumes/Untitled Favorite/apps/streams.speckle/server.js",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/SliderPrecalc.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/SpkParamMatrix.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/StreamPrecomputer.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/RequestPrecomputer.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/Home.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/SectionPlanes.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/RequestQueue.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/StreamController.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/StreamViewer.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/package.json",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/Renderer.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/SpkUiSlider.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/00-default.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/specklefrontend.sublime-project",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/dist/build.js",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/Register.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/About.vue",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/logic/Converter.js",
+		"/Users/Bender/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Bender/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/Layers.vue",
+		"/Users/Bender/Documents/dev/Speckle/server/package.json",
+		"/Users/Bender/Documents/dev/Speckle/server/models/molecule.js",
+		"/Users/Bender/Documents/dev/Speckle/server/app/sockets/gh-receiver.js",
+		"/Users/Bender/Documents/dev/Speckle/fronttt/src/components/Viewer/History.vue",
+		"/Users/Bender/Documents/dev/Speckle/front/package.json",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/shaders/CopyShader.js",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/shaders/SSAOShader.js",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/logic/Converter.js",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/Renderer.vue",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/shaders/EffectComposer.js",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/About.vue",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Footer.vue",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Register.vue",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/shaders/MaskPass.js",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/shaders/RenderPass.js",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/shaders/ShaderPass.js",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Root.vue",
+		"/Users/Bender/Documents/dev/Speckle/front/src/main.js",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/StreamViewer.vue",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/History.vue",
+		"/Users/Bender/Documents/dev/Speckle/front/src/components/Viewer/Layers.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/logic/Converter.js",
+		"/Users/Bender/Downloads/sdv.js",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/store/stream.js",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/History.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/SectionPlanes.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/Renderer.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/Layers.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/LayerObject.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/StreamViewer.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/Layer.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Start.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Dashboard.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Home.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/main.js",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Register.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Login.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Root.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/StreamBox.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/Foo.vue",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/Viewer/events.js",
+		"/Users/Bender/Documents/dev/Speckle/frontend/index.css",
+		"/Users/Bender/Documents/dev/Speckle/viewer/index.css",
+		"/Users/Bender/Documents/dev/Speckle/frontend/src/components/About.vue",
+		"/Users/Bender/Documents/dev/Speckle/viewer/package.json",
+		"/Users/Bender/Documents/dev/speckle.streams.server/models/stream.js",
+		"/Users/Bender/Documents/dev/speckle.streams.server/app/api-frontend.js",
+		"/Users/Bender/Documents/dev/speckle.streams.server/models/molecule.js",
+		"/Users/Bender/Documents/dev/speckle.streams.server/app/api-sockets.js",
+		"/Users/Bender/Documents/dev/speckle.streams.server/app/sockets/gh-sender.js",
+		"/Users/Bender/Documents/dev/speckle.streams.server/app/sockets/gh-receiver.js",
+		"/Users/Bender/Documents/dev/speckle.streams.server/server.js",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/store-nonreactive.js",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/store.js",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/Layer.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/store-geometry.js",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/index.css",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/Start.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/Root.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/Home.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/StreamViewer.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/About.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/package.json",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/Renderer.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/Register.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/logic/Converter.js",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/main.js",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/events.js",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/index.jade",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/Dashboard.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/Login.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/index.html",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/App.vue",
+		"/Users/Bender/Documents/dev/speckle.streams.dashboard/src/components/default.vue",
+		"/Users/Bender/Downloads/datapackage.json",
+		"/Volumes/Fender/Archive/BootcampBackup/Dev/speckle.streams.server/models/user.js",
+		"/Volumes/Fender/Archive/BootcampBackup/Dev/speckle.streams.server/models/molecule.js",
+		"/Volumes/Fender/Archive/BootcampBackup/Dev/speckle.streams.server/models/stream.js",
+		"/Users/Bender/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Default (OSX).sublime-keymap",
+		"/Users/Bender/Dropbox (Dimitrie)/00 Projects/20160000-PhD Stuff/UpgradeNotes.todo",
+		"/Users/Bender/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/Bender/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/Bender/Dropbox (Dimitrie)/00 Projects/20160000-PhD Stuff/upgradenotes.md",
+		"/Users/Bender/.ssh/id_rsa.pub",
+		"/Users/Bender/Desktop/S10qI8qb.ghx",
+		"/Users/Bender/Documents/dev/dash/src/main.js",
+		"/Users/Bender/Documents/dev/dash/src/App.vue",
+		"/Users/Bender/Documents/dev/dash/src/components/ModelItem.vue",
+		"/Users/Bender/Documents/dev/dash/src/components/UserInfo.vue",
+		"/Users/Bender/Documents/dev/dash/index.html",
+		"/Users/Bender/Documents/dev/dash/package.json",
+		"/Users/Bender/Documents/dev/dash/src/components/ModelList.vue",
+		"/Users/Bender/Documents/dev/dash/src/components/Navigation.vue",
+		"/Users/Bender/Documents/dev/dash/src/components/Hello.vue",
+		"/Users/Bender/Documents/dev/dash/src/components/dsh-header.vue",
+		"/Users/Bender/Dropbox (Dimitrie)/02 Development/future.speckle/app/routes/frontend.js",
+		"/Users/Bender/Dropbox (Dimitrie)/02 Development/future.speckle/config/database.js",
+		"/private/etc/hosts",
+		"/Users/Bender/Dropbox (Dimitrie)/02 Development/speckle.xyz/server.js",
+		"/Users/Bender/Dropbox (Dimitrie)/02 Development/speckle.xyz/.gitignore",
+		"/Users/Bender/Dropbox (Dimitrie)/02 Development/vue-hackernews/package.json",
+		"/Users/Bender/Dropbox (Dimitrie)/02 Development/future.speckle/.gitignore",
+		"/Users/Bender/Dropbox (Dimitrie)/02 Development/future.speckle/spkw/src/js/modules/SPKLogger.js",
+		"/Users/Bender/Dropbox (Dimitrie)/02 Development/future.speckle/spkw/src/js/DefaultNewLoader.js",
+		"/Users/Bender/Dropbox (Dimitrie)/02 Development/future.speckle/package.json",
+		"/Users/Bender/Dropbox (Dimitrie)/02 Development/future.speckle/server.js"
+	],
+	"find":
+	{
+		"height": 57.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			"*",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"plane",
+			"A",
+			"15",
+			"4",
+			"plane.origin.",
+			"data.zdir.X",
+			"basicMaterial",
+			"ml",
+			"packageName",
+			"chunkify",
+			"pop-requester",
+			"spanerfucker",
+			"\"",
+			"ui-alert",
+			"ui-checkbox",
+			"showgrid",
+			"showSectionPlanes",
+			"ackHashRec",
+			"data",
+			"emit",
+			"checkConnections",
+			"checkConnection",
+			"sender-ping-consumers",
+			"checkConnections",
+			"checkConnection",
+			"controllers-active",
+			"('----------------------------------------------------')",
+			"('---------------------------------------------------')",
+			"sendRequest",
+			"showControllers",
+			"bottom",
+			"sphere",
+			"data",
+			"-----------------",
+			"currentPayload",
+			"package",
+			": ",
+			"ConfigStore",
+			"payload",
+			"guids",
+			"consumerid",
+			"controllers",
+			"consumers",
+			"a",
+			"prepayloads",
+			"Consumer",
+			"white",
+			"100",
+			"absolute",
+			"SpkParamMatrix",
+			"generateSet",
+			"controller",
+			"background",
+			"200",
+			"this.mapNumber( num, 0, 10000, 56, 200 )",
+			"500",
+			"enabled",
+			"true",
+			"accuracy",
+			"totalInstances",
+			"number",
+			"getValues",
+			"accuracy",
+			"enabled",
+			"showComputer",
+			"decimals",
+			"abs",
+			"divisons",
+			"divisions",
+			"controllers",
+			"numberOfValues",
+			"divisions",
+			"numberOfValues",
+			"divisons",
+			"delta",
+			"controller",
+			"range value",
+			"Leave default or change.",
+			"consolidateControllers",
+			"controllers",
+			"onlineSenders",
+			"checkConnections",
+			"onlineSenders",
+			"showControllers",
+			"absolute",
+			"precomputer",
+			"show-precomputer",
+			"StreamController",
+			"h3",
+			"droplet",
+			"unique",
+			"data",
+			"black",
+			"rowserify-hmr",
+			"effectComposer",
+			"this",
+			"depthRenderTarget",
+			"depthMaterial",
+			"render",
+			"EffectComposer",
+			"uniforms",
+			"camera",
+			"depthRenderTarget",
+			"MaskPass",
+			"console.log",
+			"this",
+			"console",
+			"console.log(",
+			"console.log",
+			"scene",
+			"renderer",
+			"spotLight",
+			"scene",
+			"light",
+			"'../",
+			"../store/molecules",
+			"../store/stream",
+			"'../store/stream'",
+			"./store/config",
+			"Register",
+			"h5",
+			"h3",
+			"xxxtype='flat'",
+			".col-xs-offset-2x",
+			"StreamViewer",
+			"path",
+			"bodyParser",
+			"doc.save"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"isClosed",
+			"http://bogdanvanbroeck.com",
+			"  ",
+			" ",
+			"",
+			"SPK.VIEWER",
+			"SPK.GLOBALS",
+			"SPK.HMTL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/components/Layers.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components/Layer.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/LayerObject.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1503,
+								1503
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1274.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/SpkUiToggle.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/config.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "src/components/logic/Converter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4660,
+								4660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/components/SpkUiSlider.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/components/Renderer.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5049,
+								5049
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3514.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.617879553314,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 37.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 176.0
+	},
+	"pinned_build_system": "",
+	"project": "specklefrontend.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"spk",
+				"src/components/SpkUiSlider.vue"
+			],
+			[
+				"render",
+				"src/components/Renderer.vue"
+			],
+			[
+				"layer",
+				"src/components/LayerObject.vue"
+			],
+			[
+				"la",
+				"src/components/Layer.vue"
+			],
+			[
+				"layers",
+				"src/components/Layers.vue"
+			],
+			[
+				"converters",
+				"src/components/logic/Converter.js"
+			],
+			[
+				"spkpara",
+				"src/components/SpkParamMatrix.vue"
+			],
+			[
+				"stream",
+				"src/components/StreamViewer.vue"
+			],
+			[
+				"req",
+				"src/components/RequestQueue.vue"
+			],
+			[
+				"param",
+				"src/components/SpkParamMatrix.vue"
+			],
+			[
+				"strea",
+				"src/components/StreamViewer.vue"
+			],
+			[
+				"que",
+				"src/components/RequestQueue.vue"
+			],
+			[
+				"prec",
+				"src/components/StreamPrecomputer.vue"
+			],
+			[
+				"defa",
+				"src/components/00-default.vue"
+			],
+			[
+				"deva",
+				"src/components/00-default.vue"
+			],
+			[
+				"pre",
+				"src/components/SliderPrecalc.vue"
+			],
+			[
+				"spku",
+				"src/components/SpkUiSlider.vue"
+			],
+			[
+				"def",
+				"src/components/00-default.vue"
+			],
+			[
+				"u",
+				"src/components/SpkUiSlider.vue"
+			],
+			[
+				"rene",
+				"src/components/Renderer.vue"
+			],
+			[
+				"convert",
+				"src/components/logic/Converter.js"
+			],
+			[
+				"paca",
+				"package.json"
+			],
+			[
+				"api",
+				"app/api-frontend.js"
+			],
+			[
+				"mole",
+				"models/molecule.js"
+			],
+			[
+				"drop",
+				"models/droplet.js"
+			],
+			[
+				"main",
+				"src/main.js"
+			],
+			[
+				"hist",
+				"src/components/Viewer/History.vue"
+			],
+			[
+				"home",
+				"src/components/Home.vue"
+			],
+			[
+				"logic",
+				"src/components/Viewer/logic/Converter.js"
+			],
+			[
+				"his",
+				"src/components/Viewer/History.vue"
+			],
+			[
+				"star",
+				"src/components/Start.vue"
+			],
+			[
+				"log",
+				"frontend/src/components/Login.vue"
+			],
+			[
+				"start",
+				"frontend/src/components/Start.vue"
+			],
+			[
+				"about",
+				"frontend/src/components/About.vue"
+			],
+			[
+				"das",
+				"frontend/src/components/Dashboard.vue"
+			],
+			[
+				"mo",
+				"models/molecule.js"
+			],
+			[
+				"lay",
+				"src/components/Layer.vue"
+			],
+			[
+				"laye",
+				"src/components/Layer.vue"
+			],
+			[
+				"index",
+				"index.css"
+			],
+			[
+				"ab",
+				"src/components/About.vue"
+			],
+			[
+				"s",
+				"src/store.js"
+			],
+			[
+				"conver",
+				"src/logic/Converter.js"
+			],
+			[
+				"root",
+				"src/components/Root.vue"
+			],
+			[
+				"sot",
+				"src/store.js"
+			],
+			[
+				"css",
+				"index.css"
+			],
+			[
+				"reg",
+				"src/components/Register.vue"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"user",
+				"models/user.js"
+			],
+			[
+				"model",
+				"models/modeldata.js"
+			],
+			[
+				"srs",
+				"server.js"
+			],
+			[
+				"chec",
+				"utils/checkApiToken.js"
+			],
+			[
+				"ser",
+				"server.js"
+			],
+			[
+				"nav",
+				"src/components/Navigation.vue"
+			],
+			[
+				"pacak",
+				"package.json"
+			],
+			[
+				"",
+				"future.speckle.sublime-project"
+			],
+			[
+				"spkkey",
+				"spkw/src/js/modules/SPKKeyHandler.js"
+			],
+			[
+				"spkconf",
+				"spkw/src/js/modules/SPKConfig.js"
+			],
+			[
+				"spklo",
+				"spkw/src/js/modules/SPKLogger.js"
+			],
+			[
+				"defaultn",
+				"spkw/src/js/DefaultNewLoader.js"
+			],
+			[
+				"spksld",
+				"spkw/src/js/modules/SPKSliderControl.js"
+			],
+			[
+				"serv",
+				"server.js"
+			],
+			[
+				"sliderc",
+				"spkw/src/js/modules/SPKSliderControl.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"spkslider",
+				"spkw/src/js/modules/SPKSliderControl.js"
+			],
+			[
+				"defaultnew",
+				"spkw/src/sass/DefaultNewLoader.scss"
+			],
+			[
+				"spks",
+				"spkw/src/js/modules/SPKSliderControl.js"
+			],
+			[
+				"parcoor",
+				"spkw/src/js/modules/external/d3.parcoords.js"
+			],
+			[
+				"spk.",
+				"spkw/src/js/modules/SPK.js"
+			],
+			[
+				"para",
+				"spkw/src/sass/Parallel.scss"
+			],
+			[
+				"paral",
+				"spkw/src/jade/Parallel.jade"
+			],
+			[
+				"spk.js",
+				"spkw/src/js/modules/SPK.js"
+			],
+			[
+				"parcoo",
+				"spkw/src/js/modules/external/d3.parcoords.js"
+			],
+			[
+				"vars",
+				"assets/scss/_variables.scss"
+			],
+			[
+				"parc",
+				"spkw/src/sass/includes/external/_parcoords.scss"
+			],
+			[
+				"parall",
+				"spkw/src/sass/Parallel.scss"
+			],
+			[
+				"_var",
+				"assets/scss/_variables.scss"
+			],
+			[
+				"_app",
+				"spkw/src/sass/includes/_app.scss"
+			],
+			[
+				"object",
+				"spkw/src/js/modules/SPKObjectMaker.js"
+			],
+			[
+				"multipleke",
+				"spkw/src/js/modules/SPKMultipleKeyHandler.js"
+			],
+			[
+				"spkke",
+				"spkw/src/js/modules/SPKKeyHandler.js"
+			],
+			[
+				"slider",
+				"spkw/src/sass/includes/_sliders.scss"
+			],
+			[
+				"spksl",
+				"spkw/src/js/modules/SPKSliderControl.js"
+			],
+			[
+				"key",
+				"spkw/src/js/modules/SPKKeyHandler.js"
+			],
+			[
+				"spkmeta",
+				"spkw/src/js/modules/SPKMetaDisplay.js"
+			],
+			[
+				"default.jade",
+				"spkw/src/jade/Default.jade"
+			],
+			[
+				"spkconfig",
+				"spkw/src/js/modules/SPKConfig.js"
+			],
+			[
+				"sign",
+				"views/signup.jade"
+			],
+			[
+				"server",
+				"server.js"
+			],
+			[
+				"spkmeas",
+				"spkw/src/js/SPKMeasures.js"
+			],
+			[
+				"pag",
+				"package.json"
+			],
+			[
+				"pc",
+				"package.json"
+			],
+			[
+				"spksave",
+				"src/js/SPKSaver.js"
+			],
+			[
+				"spkui",
+				"src/js/SPKUiManager.js"
+			],
+			[
+				"terms",
+				"views/terms.jade"
+			],
+			[
+				"spkc",
+				"spkw/src/js/SPKConfig.js"
+			],
+			[
+				"aca",
+				"package.json"
+			],
+			[
+				"lice",
+				"licence"
+			],
+			[
+				"app",
+				"src/sass/app.scss"
+			],
+			[
+				"inde",
+				"src/jade/index.jade"
+			],
+			[
+				"_slider.",
+				"src/sass/_sliders.scss"
+			],
+			[
+				"var",
+				"src/sass/_variables.scss"
+			],
+			[
+				"app.scss",
+				"src/sass/app.scss"
+			],
+			[
+				"reset",
+				"src/sass/_reset.scss"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				".scss",
+				"assets/scss/main.scss"
+			],
+			[
+				"licen",
+				"license.txt"
+			],
+			[
+				"route",
+				"app/routes.js"
+			],
+			[
+				"footer",
+				"views/partials/footer.jade"
+			],
+			[
+				"v",
+				"assets/scss/_variables.scss"
+			],
+			[
+				"wat",
+				"bin/watch-css"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"data",
+				"config/database.js"
+			],
+			[
+				"te",
+				"modelviewer/test.jade"
+			],
+			[
+				"rea",
+				"readme.md"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"routes",
+				"app/routes.js"
+			],
+			[
+				"c",
+				"views/scripts/custom-file-input.js"
+			],
+			[
+				"cu",
+				"views/scripts/custom-file-input.js"
+			],
+			[
+				"prof",
+				"views/profile.ejs"
+			],
+			[
+				"pro",
+				"views/profile.ejs"
+			],
+			[
+				"index.",
+				"src/index.js"
+			],
+			[
+				"conf",
+				"config/passport.js"
+			],
+			[
+				"login",
+				"views/login.ejs"
+			],
+			[
+				"dat",
+				"config/database.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"contatc",
+				"app/templates/contact.hbs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox (Dimitrie)/02 Development/future.speckle/future.speckle.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 199.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
